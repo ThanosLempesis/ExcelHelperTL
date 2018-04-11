@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOExcelHelpers", "IOExcelHelpers\IOExcelHelpers.csproj", "{7497AD12-E73D-4962-994D-C4F30A3C57D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelHelperUnitTests", "ExcelHelperUnitTests\ExcelHelperUnitTests.csproj", "{CCA71DA4-2C00-43B7-B07B-C33873363C13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7497AD12-E73D-4962-994D-C4F30A3C57D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7497AD12-E73D-4962-994D-C4F30A3C57D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7497AD12-E73D-4962-994D-C4F30A3C57D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7497AD12-E73D-4962-994D-C4F30A3C57D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA71DA4-2C00-43B7-B07B-C33873363C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA71DA4-2C00-43B7-B07B-C33873363C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA71DA4-2C00-43B7-B07B-C33873363C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA71DA4-2C00-43B7-B07B-C33873363C13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {235C270D-DA29-444F-A077-8D4F2A171063}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\tlempesis\Desktop\CodeReviewTest-master\bin\IOExcelHelpers.dll
+C:\Users\tlempesis\Desktop\CodeReviewTest-master\bin\IOExcelHelpers.pdb
+C:\Users\tlempesis\Desktop\CodeReviewTest-master\IOExcelHelpers\obj\Debug\Interop.Shell32.dll
+C:\Users\tlempesis\Desktop\CodeReviewTest-master\IOExcelHelpers\obj\Debug\IOExcelHelpers.csproj.ResolveComReference.cache
+C:\Users\tlempesis\Desktop\CodeReviewTest-master\IOExcelHelpers\obj\Debug\IOExcelHelpers.dll
+C:\Users\tlempesis\Desktop\CodeReviewTest-master\IOExcelHelpers\obj\Debug\IOExcelHelpers.pdb
+C:\Users\tlempesis\Desktop\CodeReviewTest-master\IOExcelHelpers\obj\Debug\IOExcelHelpers.csprojResolveAssemblyReference.cache

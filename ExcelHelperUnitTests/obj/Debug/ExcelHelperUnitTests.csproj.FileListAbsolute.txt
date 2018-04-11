@@ -1,0 +1,16 @@
+C:\Users\tlempesis\Desktop\CodeReviewTest-master\ExcelHelperUnitTests\obj\Debug\ExcelHelperUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\tlempesis\Desktop\CodeReviewTest-master\ExcelHelperUnitTests\bin\ExcelHelperUnitTests.dll
+C:\Users\tlempesis\Desktop\CodeReviewTest-master\ExcelHelperUnitTests\bin\ExcelHelperUnitTests.pdb
+C:\Users\tlempesis\Desktop\CodeReviewTest-master\ExcelHelperUnitTests\bin\DocumentFormat.OpenXml.dll
+C:\Users\tlempesis\Desktop\CodeReviewTest-master\ExcelHelperUnitTests\bin\IOExcelHelpers.dll
+C:\Users\tlempesis\Desktop\CodeReviewTest-master\ExcelHelperUnitTests\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\tlempesis\Desktop\CodeReviewTest-master\ExcelHelperUnitTests\bin\IOExcelHelpers.pdb
+C:\Users\tlempesis\Desktop\CodeReviewTest-master\ExcelHelperUnitTests\bin\DocumentFormat.OpenXml.xml
+C:\Users\tlempesis\Desktop\CodeReviewTest-master\ExcelHelperUnitTests\obj\Debug\ExcelHelperUnitTests.dll
+C:\Users\tlempesis\Desktop\CodeReviewTest-master\ExcelHelperUnitTests\obj\Debug\ExcelHelperUnitTests.pdb
+C:\Users\tlempesis\Desktop\CodeReviewTest-master\ExcelHelperUnitTests\bin\Serilog.dll
+C:\Users\tlempesis\Desktop\CodeReviewTest-master\ExcelHelperUnitTests\bin\Serilog.FullNetFx.dll
+C:\Users\tlempesis\Desktop\CodeReviewTest-master\ExcelHelperUnitTests\bin\Serilog.pdb
+C:\Users\tlempesis\Desktop\CodeReviewTest-master\ExcelHelperUnitTests\bin\Serilog.xml
+C:\Users\tlempesis\Desktop\CodeReviewTest-master\ExcelHelperUnitTests\bin\Serilog.FullNetFx.pdb
+C:\Users\tlempesis\Desktop\CodeReviewTest-master\ExcelHelperUnitTests\bin\Serilog.FullNetFx.xml
